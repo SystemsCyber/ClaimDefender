@@ -1,0 +1,3 @@
+[submodule "ClaimDefender-Paper.git"]
+	path = ClaimDefender-Paper
+	url = https://github.com/SystemsCyber/ClaimDefender-Paper.git
